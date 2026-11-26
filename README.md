@@ -1,4 +1,4 @@
-﻿<div align="center">
+ï»¿<div align="center">
 
 <img src="principles/images/cta-go-deeper.png" alt="Power Design" width="720">
 
@@ -10,12 +10,12 @@
 </div>
 
 
-### Uma skill do Claude para slides que nÃ£o parecem feitos por IA.
+### Uma skill do Claude para slides que nêÂ£o parecem feitos por IA.
 
-**Brand DNA Ã— 20 princÃ­pios de design codificados â†’ decks HTML bonitos, sob demanda.**
+**Brand DNA êâ 20 princêÂ­pios de design codificados ê¢â â decks HTML bonitos, sob demanda.**
 
-[**Ver os princÃ­pios â†’**](https://inematds.github.io/power-design/) Â·
-[**Comunidade â†’**](https://inema.club)
+[**Ver os princêÂ­pios ê¢â â**](https://inematds.github.io/power-design/) êÂ·
+[**Comunidade ê¢â â**](https://inema.club)
 
 </div>
 
@@ -23,18 +23,18 @@
 
 ## O que faz
 
-Power Design Ã© uma skill do Claude Code que combina duas coisas que outros geradores de deck de IA ignoram:
+Power Design êÂ© uma skill do Claude Code que combina duas coisas que outros geradores de deck de IA ignoram:
 
-1. **Brand DNA** â€” extraÃ­do ao vivo de qualquer URL via Firecrawl, ou escolhido entre **72+ sistemas de marca prÃ©-prontos** (Stripe, Apple, Linear, Spotify, Vercel, Notion, Tesla, Airbnbâ€¦)
-2. **20 princÃ­pios de design codificados** â€” tirados de Tufte, Reynolds, Duarte, Williams, Refactoring UI, MÃ¼ller-Brockmann, Mayer, WCAG 2.2
+1. **Brand DNA** ê¢â¬â extraêÂ­do ao vivo de qualquer URL via Firecrawl, ou escolhido entre **72+ sistemas de marca prêÂ©-prontos** (Stripe, Apple, Linear, Spotify, Vercel, Notion, Tesla, Airbnbê¢â¬Â¦)
+2. **20 princêÂ­pios de design codificados** ê¢â¬â tirados de Tufte, Reynolds, Duarte, Williams, Refactoring UI, MêÂ¼ller-Brockmann, Mayer, WCAG 2.2
 
-O resultado: cada deck Ã© ao mesmo tempo consistente com a marca e objetivamente bem projetado. Sem gradientes roxos. Sem slides herÃ³i com seis bullets. Sem sombras em barras.
+O resultado: cada deck êÂ© ao mesmo tempo consistente com a marca e objetivamente bem projetado. Sem gradientes roxos. Sem slides herêÂ³i com seis bullets. Sem sombras em barras.
 
 ---
 
 ## As 20 regras, ilustradas
 
-Cada slide passa pelos mesmos 20 critÃ©rios. **[Leia o manual completo â†’](https://inematds.github.io/power-design/)**
+Cada slide passa pelos mesmos 20 critêÂ©rios. **[Leia o manual completo ê¢â â](https://inematds.github.io/power-design/)**
 
 <div align="center">
 
@@ -49,29 +49,29 @@ Cada slide passa pelos mesmos 20 critÃ©rios. **[Leia o manual completo â†�
 | # | Regra | Fonte |
 |---:|---|---|
 |  1 | Uma ideia por slide | Reynolds; Duarte |
-|  2 | LegÃ­vel em â‰¤3 segundos | Duarte; NN/g |
-|  3 | â‰¤7Â±2 blocos visuais; ideal 3â€“5 | Miller 1956; Cowan 2001 |
-|  4 | ProporÃ§Ã£o de espaÃ§o em branco â‰¥40% | Refactoring UI; Reynolds |
-|  5 | Zona de seguranÃ§a de 5% em todas as bordas | Broadcast title-safe |
-|  6 | Tipografia em escala modular (1.25â€“1.618) | Tschichold; Bringhurst |
-|  7 | MÃ¡ximo 4 tamanhos de tipo por slide | Refactoring UI |
-|  8 | Corpo â‰¥24px, tÃ­tulo â‰¥48px | Reynolds; Duarte |
-|  9 | Entrelinhas 1.4â€“1.6 corpo, 1.05â€“1.2 display | Butterick; Bringhurst |
-| 10 | Comprimento de linha â‰¤60 caracteres | Bringhurst |
-| 11 | Contraste WCAG â‰¥4.5:1 corpo, ideal 7:1 (AAA) | WCAG 2.2 |
-| 12 | DistribuiÃ§Ã£o de cor 60-30-10 | Itten; Refactoring UI |
+|  2 | LegêÂ­vel em ê¢â°Â¤3 segundos | Duarte; NN/g |
+|  3 | ê¢â°Â¤7êÂ±2 blocos visuais; ideal 3ê¢â¬â5 | Miller 1956; Cowan 2001 |
+|  4 | ProporêÂ§êÂ£o de espaêÂ§o em branco ê¢â°Â¥40% | Refactoring UI; Reynolds |
+|  5 | Zona de seguranêÂ§a de 5% em todas as bordas | Broadcast title-safe |
+|  6 | Tipografia em escala modular (1.25ê¢â¬â1.618) | Tschichold; Bringhurst |
+|  7 | MêÂ¡ximo 4 tamanhos de tipo por slide | Refactoring UI |
+|  8 | Corpo ê¢â°Â¥24px, têÂ­tulo ê¢â°Â¥48px | Reynolds; Duarte |
+|  9 | Entrelinhas 1.4ê¢â¬â1.6 corpo, 1.05ê¢â¬â1.2 display | Butterick; Bringhurst |
+| 10 | Comprimento de linha ê¢â°Â¤60 caracteres | Bringhurst |
+| 11 | Contraste WCAG ê¢â°Â¥4.5:1 corpo, ideal 7:1 (AAA) | WCAG 2.2 |
+| 12 | DistribuiêÂ§êÂ£o de cor 60-30-10 | Itten; Refactoring UI |
 | 13 | Um destaque por slide | Tufte |
 | 14 | Nunca codificar significado apenas por cor | WCAG 1.4.1 |
-| 15 | Grade de 8pt para todos os espaÃ§amentos | Bryn Jackson; Material |
-| 16 | Tudo alinhado a uma grade | MÃ¼ller-Brockmann |
-| 17 | Proximidade: relacionados â‰¤16px, distintos â‰¥48px | Gestalt; Williams |
-| 18 | Taxa de tinta de dados â‰¥80% | Tufte 1983 |
-| 19 | PadrÃ£o F: tÃ­tulo + visual principal no topo esquerdo | NN/g eye-tracking |
-| 20 | Dois modos vÃ¡lidos â€” escolha um e mantenha | Tufte vs Reynolds |
+| 15 | Grade de 8pt para todos os espaêÂ§amentos | Bryn Jackson; Material |
+| 16 | Tudo alinhado a uma grade | MêÂ¼ller-Brockmann |
+| 17 | Proximidade: relacionados ê¢â°Â¤16px, distintos ê¢â°Â¥48px | Gestalt; Williams |
+| 18 | Taxa de tinta de dados ê¢â°Â¥80% | Tufte 1983 |
+| 19 | PadrêÂ£o F: têÂ­tulo + visual principal no topo esquerdo | NN/g eye-tracking |
+| 20 | Dois modos vêÂ¡lidos ê¢â¬â escolha um e mantenha | Tufte vs Reynolds |
 
 ---
 
-## InstalaÃ§Ã£o
+## InstalaêÂ§êÂ£o
 
 ```bash
 git clone https://github.com/inematds/power-design ~/.claude/skills/power-design
@@ -80,65 +80,65 @@ git clone https://github.com/inematds/power-design ~/.claude/skills/power-design
 Depois no Claude Code:
 
 ```
-> use power-design â€” crie um deck para stripe.com sobre o nosso novo lanÃ§amento
+> use power-design ê¢â¬â crie um deck para stripe.com sobre o nosso novo lanêÂ§amento
 ```
 
 A skill vai:
-1. Perguntar pela marca (cole uma URL, escolha da biblioteca, ou pule para o padrÃ£o)
+1. Perguntar pela marca (cole uma URL, escolha da biblioteca, ou pule para o padrêÂ£o)
 2. Extrair o Brand DNA via Firecrawl (~30 segundos)
-3. Pedir um briefing de conteÃºdo (tÃ­tulo + 3â€“5 pontos)
-4. Gerar `slides.html` aplicando Brand DNA Ã— 20 regras
+3. Pedir um briefing de conteêÂºdo (têÂ­tulo + 3ê¢â¬â5 pontos)
+4. Gerar `slides.html` aplicando Brand DNA êâ 20 regras
 5. Abrir no browser. Refinar via conversa natural.
 
 ---
 
-## Biblioteca de marcas â€” 72+ sistemas prÃ©-prontos
+## Biblioteca de marcas ê¢â¬â 72+ sistemas prêÂ©-prontos
 
-| Tech / IA | FinanÃ§as | Auto / Lifestyle | MÃ­dia | Produtividade |
+| Tech / IA | FinanêÂ§as | Auto / Lifestyle | MêÂ­dia | Produtividade |
 |---|---|---|---|---|
-| Anthropic / Claude Â· OpenAI Â· DeepSeek Â· Linear Â· Vercel Â· Stripe Â· Cursor Â· GitHub Â· Figma Â· Webflow Â· Framer Â· Mintlify Â· Notion Â· Raycast Â· Lovable Â· Resend Â· Sentry Â· Supabase Â· Superhuman Â· MongoDB Â· Sanity Â· Posthog Â· Replicate Â· Runway Â· Hashicorp Â· ElevenLabs Â· Cal Â· Clay Â· Composio Â· ClickHouse Â· Cohere Â· Mistral Â· Together Â· x.ai Â· Ollama Â· OpenCode Â· Expo Â· Pinterest Â· Glaido | Stripe Â· Mastercard Â· Coinbase Â· Binance Â· Kraken Â· Revolut Â· Wise Â· Shopify | Tesla Â· BMW Â· BMW M Â· Bugatti Â· Ferrari Â· Lamborghini Â· Renault Â· Nike Â· Airbnb Â· Apple Â· Starbucks Â· Grind Â· Vodafone | The Verge Â· Wired Â· Spotify Â· YouTube Â· Sony Â· PlayStation Â· IBM | Notion Â· Slack Â· Miro Â· Intercom Â· Zapier Â· Uber Â· NVIDIA Â· SpaceX Â· VoltAgent Â· Warp |
+| Anthropic / Claude êÂ· OpenAI êÂ· DeepSeek êÂ· Linear êÂ· Vercel êÂ· Stripe êÂ· Cursor êÂ· GitHub êÂ· Figma êÂ· Webflow êÂ· Framer êÂ· Mintlify êÂ· Notion êÂ· Raycast êÂ· Lovable êÂ· Resend êÂ· Sentry êÂ· Supabase êÂ· Superhuman êÂ· MongoDB êÂ· Sanity êÂ· Posthog êÂ· Replicate êÂ· Runway êÂ· Hashicorp êÂ· ElevenLabs êÂ· Cal êÂ· Clay êÂ· Composio êÂ· ClickHouse êÂ· Cohere êÂ· Mistral êÂ· Together êÂ· x.ai êÂ· Ollama êÂ· OpenCode êÂ· Expo êÂ· Pinterest êÂ· Glaido | Stripe êÂ· Mastercard êÂ· Coinbase êÂ· Binance êÂ· Kraken êÂ· Revolut êÂ· Wise êÂ· Shopify | Tesla êÂ· BMW êÂ· BMW M êÂ· Bugatti êÂ· Ferrari êÂ· Lamborghini êÂ· Renault êÂ· Nike êÂ· Airbnb êÂ· Apple êÂ· Starbucks êÂ· Grind êÂ· Vodafone | The Verge êÂ· Wired êÂ· Spotify êÂ· YouTube êÂ· Sony êÂ· PlayStation êÂ· IBM | Notion êÂ· Slack êÂ· Miro êÂ· Intercom êÂ· Zapier êÂ· Uber êÂ· NVIDIA êÂ· SpaceX êÂ· VoltAgent êÂ· Warp |
 
-Cada entrada Ã© um Ãºnico arquivo `brand-style.md`: cores, tipografia, voz, componentes, URL de origem. Adicione a sua usando `brands/_template.md`.
+Cada entrada êÂ© um êÂºnico arquivo `brand-style.md`: cores, tipografia, voz, componentes, URL de origem. Adicione a sua usando `brands/_template.md`.
 
 ---
 
 ## Como a skill funciona (por dentro)
 
 ```
-   â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-   â”‚  1. Brand DNA       (URL â†’ Firecrawl)   â”‚
-   â”‚     OU escolha de  brands/<nome>.md     â”‚
-   â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
-   â”‚  2. Regras de design  principles/...md  â”‚
-   â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
-   â”‚  3. ComposiÃ§Ã£o   brand Ã— regras â†’ HTML  â”‚
-   â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
-                      â†“
+   ê¢âÅê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢âÂ
+   ê¢ââ  1. Brand DNA       (URL ê¢â â Firecrawl)   ê¢ââ
+   ê¢ââ     OU escolha de  brands/<nome>.md     ê¢ââ
+   ê¢âÅê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢âÂ¤
+   ê¢ââ  2. Regras de design  principles/...md  ê¢ââ
+   ê¢âÅê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢âÂ¤
+   ê¢ââ  3. ComposiêÂ§êÂ£o   brand êâ regras ê¢â â HTML  ê¢ââ
+   ê¢ââê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢ââ¬ê¢âË
+                      ê¢â â
                   slides.html
 ```
 
-O runbook da skill estÃ¡ em `SKILL.md`. Os 20 princÃ­pios de design (com citaÃ§Ãµes de pesquisa e limites numÃ©ricos) estÃ£o em `principles/design-principles.md`.
+O runbook da skill estêÂ¡ em `SKILL.md`. Os 20 princêÂ­pios de design (com citaêÂ§êÂµes de pesquisa e limites numêÂ©ricos) estêÂ£o em `principles/design-principles.md`.
 
 ---
 
-## CrÃ©ditos
+## CrêÂ©ditos
 
-- **Biblioteca de marcas** â€” derivada e reestruturada de [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md), com permissÃ£o e crÃ©dito.
-- **Pesquisa de design** â€” Edward Tufte, Garr Reynolds, Nancy Duarte, Robin Williams (CRAP), Adam Wathan & Steve Schoger (Refactoring UI), Josef MÃ¼ller-Brockmann, Matthew Butterick, Robert Bringhurst, Richard Mayer, Nielsen Norman Group, WCAG 2.2.
-- **IlustraÃ§Ãµes** â€” geradas via Kie.ai nano-banana 2.
+- **Biblioteca de marcas** ê¢â¬â derivada e reestruturada de [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md), com permissêÂ£o e crêÂ©dito.
+- **Pesquisa de design** ê¢â¬â Edward Tufte, Garr Reynolds, Nancy Duarte, Robin Williams (CRAP), Adam Wathan & Steve Schoger (Refactoring UI), Josef MêÂ¼ller-Brockmann, Matthew Butterick, Robert Bringhurst, Richard Mayer, Nielsen Norman Group, WCAG 2.2.
+- **IlustraêÂ§êÂµes** ê¢â¬â geradas via Kie.ai nano-banana 2.
 
 ---
 
-## LicenÃ§a
+## LicenêÂ§a
 
-MIT â€” veja [LICENSE](LICENSE).
+MIT ê¢â¬â veja [LICENSE](LICENSE).
 
 ---
 
 <div align="center">
 
-[**PrincÃ­pios â†’**](https://inematds.github.io/power-design/) Â·
-[**Comunidade â†’**](https://inema.club)
+[**PrincêÂ­pios ê¢â â**](https://inematds.github.io/power-design/) êÂ·
+[**Comunidade ê¢â â**](https://inema.club)
 
 </div>
 
