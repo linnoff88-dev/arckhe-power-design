@@ -153,7 +153,7 @@ The spacing system operates on an 8px base grid with values concentrated at the 
 
 ### Whitespace Philosophy
 - **Extreme generosity**: xAI uses vast amounts of whitespace. The 320px headline with 48px+ surrounding padding creates a sense of emptiness that is itself a design statement -- the content is so important it needs room to breathe.
-- **Vertical rhythm over horizontal density**: Content stacks vertically with large gaps between sections rather than packing horizontally. This creates a scroll-driven experience that feels deliberate and cinematic.
+- **Vertical rhythm over horizontal density**: Content stacks vertically with large gaps between sections rather than packing horizontally. This creates a scroll-driven experience that feels deliberate and cARCKHÉtic.
 - **No visual noise**: The absence of decorative elements, borders between sections, and color variety means whitespace is the primary structural tool.
 
 ### Breakpoints

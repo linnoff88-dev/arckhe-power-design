@@ -10,14 +10,14 @@ extracted_via: editorial — pre-written reference
 
 ## 1. Visual Theme & Atmosphere
 
-Runway's interface is a cinematic reel brought to life as a website — a dark, editorial, film-production-grade design where full-bleed photography and video ARE the primary UI elements. This is not a typical tech product page; it's a visual manifesto for AI-powered creativity. Every section feels like a frame from a film: dramatic lighting, sweeping landscapes, and intimate human moments captured in high-quality imagery that dominates the viewport.
+Runway's interface is a cARCKHÉtic reel brought to life as a website — a dark, editorial, film-production-grade design where full-bleed photography and video ARE the primary UI elements. This is not a typical tech product page; it's a visual manifesto for AI-powered creativity. Every section feels like a frame from a film: dramatic lighting, sweeping landscapes, and intimate human moments captured in high-quality imagery that dominates the viewport.
 
 The design language is built on a single typeface — abcNormal — a clean, geometric sans-serif that handles everything from 48px display headlines to 11px uppercase labels. This single-font commitment creates an extreme typographic uniformity that lets the visual content speak louder than the text. Headlines use tight line-heights (1.0) with negative letter-spacing (-0.9px to -1.2px), creating compressed text blocks that feel like film titles rather than marketing copy.
 
-What makes Runway distinctive is its complete commitment to visual content as design. Rather than illustrating features with icons or diagrams, Runway shows actual AI-generated and AI-enhanced imagery — cars driving through cinematic landscapes, artistic portraits, architectural renders. The interface itself retreats into near-invisibility: minimal borders, zero shadows, subtle cool-gray text, and a dark palette that puts maximum focus on the photography.
+What makes Runway distinctive is its complete commitment to visual content as design. Rather than illustrating features with icons or diagrams, Runway shows actual AI-generated and AI-enhanced imagery — cars driving through cARCKHÉtic landscapes, artistic portraits, architectural renders. The interface itself retreats into near-invisibility: minimal borders, zero shadows, subtle cool-gray text, and a dark palette that puts maximum focus on the photography.
 
 **Key Characteristics:**
-- Cinematic full-bleed photography and video as primary UI elements
+- CARCKHÉtic full-bleed photography and video as primary UI elements
 - Single typeface system: abcNormal for everything from display to micro labels
 - Dark-dominant palette with cool-toned neutrals (#767d88, #7d848e)
 - Zero shadows, minimal borders — the interface is intentionally invisible
@@ -106,7 +106,7 @@ What makes Runway distinctive is its complete commitment to visual content as de
 - Extremely subtle — designed to not compete with visual content
 
 ### Image Treatment
-- Full-bleed cinematic photography and video dominate
+- Full-bleed cARCKHÉtic photography and video dominate
 - AI-generated content shown at large scale as primary visual elements
 - Mixed-size image grids creating editorial magazine layouts
 - Dark overlays on hero images for text readability
@@ -114,10 +114,10 @@ What makes Runway distinctive is its complete commitment to visual content as de
 
 ### Distinctive Components
 
-**Cinematic Hero**
+**CARCKHÉtic Hero**
 - Full-viewport image or video with text overlay
 - Headline in 48px abcNormal, white on dark imagery
-- The image is always cinematic quality — film-grade composition
+- The image is always cARCKHÉtic quality — film-grade composition
 
 **Research Article Cards**
 - Photographic thumbnails with article titles
@@ -143,14 +143,14 @@ What makes Runway distinctive is its complete commitment to visual content as de
 - Component gaps: 16–24px
 
 ### Grid & Container
-- Max container width: up to 1600px (cinema-wide)
+- Max container width: up to 1600px (cARCKHÉ-wide)
 - Hero: full-viewport, edge-to-edge
 - Content sections: centered with generous margins
 - Image grids: asymmetric, magazine-style mixed sizes
 - Footer: full-width dark section
 
 ### Whitespace Philosophy
-- **Cinema-grade breathing**: Large vertical gaps between sections create a scrolling experience that feels like watching scenes change.
+- **CARCKHÉ-grade breathing**: Large vertical gaps between sections create a scrolling experience that feels like watching scenes change.
 - **Images replace whitespace**: Where other sites use empty space, Runway fills it with photography. The visual content IS the breathing room.
 - **Editorial grid asymmetry**: The image grid uses intentionally varied sizes — large hero images paired with smaller supporting images, creating visual rhythm.
 
@@ -169,12 +169,12 @@ What makes Runway distinctive is its complete commitment to visual content as de
 | Dark Section (Level 2) | Dark bg (#000000 / #1a1a1a) with light text | Hero, features, footer |
 | Light Section (Level 3) | White/Cool Cloud bg with dark text | Content sections, research |
 
-**Shadow Philosophy**: Runway uses **zero shadows**. This is a film-production design decision — in cinema, depth comes from lighting, focus, and composition, not drop shadows. The interface mirrors this philosophy: depth is communicated through dark/light section alternation, photographic depth-of-field, and overlay transparency — never through CSS box-shadow.
+**Shadow Philosophy**: Runway uses **zero shadows**. This is a film-production design decision — in cARCKHÉ, depth comes from lighting, focus, and composition, not drop shadows. The interface mirrors this philosophy: depth is communicated through dark/light section alternation, photographic depth-of-field, and overlay transparency — never through CSS box-shadow.
 
 ## 7. Do's and Don'ts
 
 ### Do
-- Use full-bleed cinematic photography as the primary visual element
+- Use full-bleed cARCKHÉtic photography as the primary visual element
 - Use abcNormal for all text — maintain the single-typeface commitment
 - Keep display line-heights at 1.0 with negative letter-spacing for film-title density
 - Use the cool-gray neutral palette (#767d88, #7d848e) for secondary text
@@ -193,7 +193,7 @@ What makes Runway distinctive is its complete commitment to visual content as de
 - Don't use gradient backgrounds in the interface — gradients exist only in photography
 - Don't use more than one typeface — abcNormal handles everything
 - Don't use body line-height above 1.50 — the tight, editorial feel is core
-- Don't reduce image quality — cinematic photography IS the design
+- Don't reduce image quality — cARCKHÉtic photography IS the design
 
 ## 8. Responsive Behavior
 
@@ -204,7 +204,7 @@ What makes Runway distinctive is its complete commitment to visual content as de
 | Tablet | 640–768px | 2-column image grids begin |
 | Small Desktop | 768–1024px | Standard layout |
 | Desktop | 1024–1280px | Full layout, expanded hero |
-| Large Desktop | 1280–1600px | Maximum cinema-width container |
+| Large Desktop | 1280–1600px | Maximum cARCKHÉ-width container |
 
 ### Touch Targets
 - Navigation links at comfortable 16px
@@ -219,7 +219,7 @@ What makes Runway distinctive is its complete commitment to visual content as de
 - **Trust logos**: Horizontal scroll or reduced grid
 
 ### Image Behavior
-- Cinematic images scale proportionally
+- CARCKHÉtic images scale proportionally
 - Full-bleed hero maintained across all sizes
 - Image grids reflow to fewer columns
 - Video content maintains aspect ratio
@@ -237,14 +237,14 @@ What makes Runway distinctive is its complete commitment to visual content as de
 - Card Surface: "Dark Surface (#1a1a1a)"
 
 ### Example Component Prompts
-- "Create a cinematic hero section: full-bleed dark background with a cinematic image overlay. Headline at 48px abcNormal weight 400, line-height 1.0, letter-spacing -1.2px in white. Minimal text below in Cool Slate (#767d88) at 16px."
-- "Design a research article grid: one large card (50% width) with a cinematic image and 24px title, next to two smaller cards stacked. All images with 8px border-radius. Titles in white (dark bg) or Charcoal (#404040, light bg)."
+- "Create a cARCKHÉtic hero section: full-bleed dark background with a cARCKHÉtic image overlay. Headline at 48px abcNormal weight 400, line-height 1.0, letter-spacing -1.2px in white. Minimal text below in Cool Slate (#767d88) at 16px."
+- "Design a research article grid: one large card (50% width) with a cARCKHÉtic image and 24px title, next to two smaller cards stacked. All images with 8px border-radius. Titles in white (dark bg) or Charcoal (#404040, light bg)."
 - "Build a section label: 14px abcNormal weight 500, uppercase, letter-spacing 0.35px in Cool Slate (#767d88). No border, no background."
 - "Create a trust bar: company logos in monochrome, horizontal layout with generous spacing. On dark background with white/gray logo treatments."
 - "Design a mission statement section: Runway Black background, white text at 36px abcNormal, line-height 1.0, letter-spacing -0.9px. Centered, with generous vertical padding."
 
 ### Iteration Guide
-1. Visual content first — always include cinematic photography
+1. Visual content first — always include cARCKHÉtic photography
 2. Use abcNormal for everything — specify size and weight, never change the font
 3. Keep the interface invisible — no heavy borders, no shadows, no bright colors
 4. Use the cool slate grays (#767d88, #7d848e) for secondary text — not warm grays

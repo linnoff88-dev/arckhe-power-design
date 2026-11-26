@@ -14,8 +14,8 @@
 
 **Brand DNA êâ 20 princêÂ­pios de design codificados ê¢â â decks HTML bonitos, sob demanda.**
 
-[**Ver os princêÂ­pios ê¢â â**](https://inematds.github.io/power-design/) êÂ·
-[**Comunidade ê¢â â**](https://inema.club)
+[**Ver os princêÂ­pios ê¢â â**](https://linnoff88-dev.github.io/arckhe-/) êÂ·
+[**Comunidade ê¢â â**](https://ARCKHÉ AI)
 
 </div>
 
@@ -34,7 +34,7 @@ O resultado: cada deck êÂ© ao mesmo tempo consistente com a marca e objetiv
 
 ## As 20 regras, ilustradas
 
-Cada slide passa pelos mesmos 20 critêÂ©rios. **[Leia o manual completo ê¢â â](https://inematds.github.io/power-design/)**
+Cada slide passa pelos mesmos 20 critêÂ©rios. **[Leia o manual completo ê¢â â](https://linnoff88-dev.github.io/arckhe-/)**
 
 <div align="center">
 
@@ -74,7 +74,7 @@ Cada slide passa pelos mesmos 20 critêÂ©rios. **[Leia o manual completo ê�
 ## InstalaêÂ§êÂ£o
 
 ```bash
-git clone https://github.com/inematds/power-design ~/.claude/skills/power-design
+git clone https://github.com/linnoff88-dev/power-design ~/.claude/skills/power-design
 ```
 
 Depois no Claude Code:
@@ -137,8 +137,8 @@ MIT ê¢â¬â veja [LICENSE](LICENSE).
 
 <div align="center">
 
-[**PrincêÂ­pios ê¢â â**](https://inematds.github.io/power-design/) êÂ·
-[**Comunidade ê¢â â**](https://inema.club)
+[**PrincêÂ­pios ê¢â â**](https://linnoff88-dev.github.io/arckhe-/) êÂ·
+[**Comunidade ê¢â â**](https://ARCKHÉ AI)
 
 </div>
 

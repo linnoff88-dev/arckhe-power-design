@@ -10,7 +10,7 @@ extracted_via: editorial — pre-written reference
 
 ## 1. Visual Theme & Atmosphere
 
-Superhuman's website feels like opening a luxury envelope — predominantly white, immaculately clean, with a single dramatic gesture of color that commands attention. The hero section is a cinematic purple gradient, a deep twilight wash of `#1b1938` that evokes the moment just before dawn, overlaid with confident white typography. Below this dramatic entrance, the rest of the site is almost entirely white canvas with dark charcoal text, creating a stark but refined reading experience.
+Superhuman's website feels like opening a luxury envelope — predominantly white, immaculately clean, with a single dramatic gesture of color that commands attention. The hero section is a cARCKHÉtic purple gradient, a deep twilight wash of `#1b1938` that evokes the moment just before dawn, overlaid with confident white typography. Below this dramatic entrance, the rest of the site is almost entirely white canvas with dark charcoal text, creating a stark but refined reading experience.
 
 The typography is the true signature: Super Sans VF, a custom variable font with unconventional weight stops (460, 540, 600, 700) that sit between traditional font weight categories. Weight 460 — slightly heavier than regular but lighter than medium — is the workhorse, creating text that feels more confident than typical 400-weight but never aggressive. The tight line-heights (0.96 on display text) compress headlines into dense, powerful blocks, while generous 1.50 line-height on body text provides airy readability. This tension between compressed power and breathing room defines the Superhuman typographic voice.
 
@@ -55,7 +55,7 @@ The design philosophy is maximum confidence through minimum decoration. Warm cre
 
 ### Gradient System
 - **Hero Gradient**: Deep purple gradient starting from `#1b1938`, transitioning through purple-to-twilight tones across the hero section — the most dramatic visual element on the entire site
-- **Content Transition**: The gradient dissolves into the white content area, creating a cinematic curtain-lift effect as the user scrolls
+- **Content Transition**: The gradient dissolves into the white content area, creating a cARCKHÉtic curtain-lift effect as the user scrolls
 - No other gradients on the marketing site — the hero gradient is a singular dramatic gesture
 
 ## 3. Typography Rules
@@ -124,7 +124,7 @@ The design philosophy is maximum confidence through minimum decoration. Warm cre
 
 ### Image Treatment
 - **Product screenshots**: Large, dominant product UI images showing the email interface — the product is the hero
-- **Lifestyle photography**: A single dramatic image (silhouette against purple/red gradient) in the hero area — cinematic and editorial
+- **Lifestyle photography**: A single dramatic image (silhouette against purple/red gradient) in the hero area — cARCKHÉtic and editorial
 - **Full-width presentation**: Screenshots span full container width with subtle shadow or no border
 - **Aspect ratios**: Wide landscape ratios (roughly 16:9) for product screenshots
 - **Color integration**: Screenshots are carefully color-graded to harmonize with the purple-to-white page flow
@@ -151,7 +151,7 @@ The design philosophy is maximum confidence through minimum decoration. Warm cre
 ### Whitespace Philosophy
 - **Confident emptiness**: Generous whitespace between sections signals premium positioning — every element has room to breathe
 - **Product as content**: Large product screenshots fill space that lesser sites would fill with marketing copy
-- **Progressive density**: The hero is spacious and cinematic, content sections become denser with feature grids, then opens up again for CTAs
+- **Progressive density**: The hero is spacious and cARCKHÉtic, content sections become denser with feature grids, then opens up again for CTAs
 
 ### Border Radius Scale
 - **8px**: Buttons, inline elements (`span`, `button`, `div`) — the universal small radius
@@ -176,7 +176,7 @@ Superhuman's elevation system is remarkably restrained on the marketing site. De
 - **Opacity layering**: Semi-transparent whites on the hero gradient create atmospheric depth layers
 
 ### Decorative Depth
-- **Hero gradient**: The `#1b1938` → white gradient transition is the primary depth device — a cinematic curtain effect
+- **Hero gradient**: The `#1b1938` → white gradient transition is the primary depth device — a cARCKHÉtic curtain effect
 - **Lavender accents**: `#cbb7fb` Lavender Glow elements float above the dark gradient, creating a stellar/atmospheric effect
 - **No glassmorphism**: Despite the translucent borders, there are no blur/frosted-glass effects
 - **Photography depth**: The hero silhouette image creates natural atmospheric depth without artificial CSS

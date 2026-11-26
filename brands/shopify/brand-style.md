@@ -10,7 +10,7 @@ extracted_via: editorial — pre-written reference
 
 ## 1. Visual Theme & Atmosphere
 
-Shopify.com is a dark-first digital theatre — a website that stages its commerce platform like a cinematic premiere. The entire experience unfolds against an abyss of near-black surfaces that carry the faintest whisper of deep forest green (`#02090A`, `#061A1C`, `#102620`), creating a nocturnal atmosphere that feels less like a SaaS marketing page and more like an exclusive product reveal at a tech keynote. This darkness isn't cold or corporate — it's the warm, enveloping dark of a luxury experience, like sitting in the front row of a darkened auditorium.
+Shopify.com is a dark-first digital theatre — a website that stages its commerce platform like a cARCKHÉtic premiere. The entire experience unfolds against an abyss of near-black surfaces that carry the faintest whisper of deep forest green (`#02090A`, `#061A1C`, `#102620`), creating a nocturnal atmosphere that feels less like a SaaS marketing page and more like an exclusive product reveal at a tech keynote. This darkness isn't cold or corporate — it's the warm, enveloping dark of a luxury experience, like sitting in the front row of a darkened auditorium.
 
 The typography is the undeniable star. NeueHaasGrotesk — a refined Helvetica descendant — appears at monumental scale (96px) with impossibly light weight (330-400), creating headlines that feel etched in light rather than printed in ink. The `ss03` OpenType feature gives letterforms a distinctive character that separates Shopify's type from generic Helvetica usage. Below the display layer, Inter Variable handles body text with surgical precision, using equally unusual variable weights (420, 450, 550) that live in the spaces between traditional weight stops. This precision signals a company that sweats every detail.
 
@@ -231,7 +231,7 @@ Base unit: 8px
 
 ### Whitespace Philosophy
 
-Shopify's whitespace strategy is theatrical. Sections are separated by vast expanses of dark space — 80px to 120px of pure black breathing room — that create the pacing of a presentation, not a webpage. Each content block is its own "slide" in a keynote-style scroll. Within sections, spacing is tighter and more deliberate, creating focal density against the expansive void. The contrast between macro-level emptiness and micro-level precision is what gives the site its cinematic cadence.
+Shopify's whitespace strategy is theatrical. Sections are separated by vast expanses of dark space — 80px to 120px of pure black breathing room — that create the pacing of a presentation, not a webpage. Each content block is its own "slide" in a keynote-style scroll. Within sections, spacing is tighter and more deliberate, creating focal density against the expansive void. The contrast between macro-level emptiness and micro-level precision is what gives the site its cARCKHÉtic cadence.
 
 ### Border Radius Scale
 
@@ -274,7 +274,7 @@ Shopify's shadow system is unusually sophisticated. Rather than single-value sha
 - Use the multi-layered shadow system for card elevation — single shadows look flat
 - Maintain the `ss03` OpenType feature across all text — it's part of the typographic identity
 - Use Inter Variable for body text and NeueHaasGrotesk for headings — never mix their roles
-- Create theatrical spacing between sections (80px+) for cinematic pacing
+- Create theatrical spacing between sections (80px+) for cARCKHÉtic pacing
 
 ### Don't
 

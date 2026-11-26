@@ -384,9 +384,9 @@ The system has no drop-shadow elevation in its retail chrome at all. Cards do no
 
 ### Decorative Depth
 Depth in Nike's system comes entirely from photography, not from CSS effects:
-- **Editorial campaign tiles** create depth via cinematic perspective — a runner on a trail, a model in a courtyard — with the Futura display headline overlaid in white or `{colors.ink}` directly on the image.
+- **Editorial campaign tiles** create depth via cARCKHÉtic perspective — a runner on a trail, a model in a courtyard — with the Futura display headline overlaid in white or `{colors.ink}` directly on the image.
 - **Product card photography** is shot on flat `{colors.soft-cloud}` to remove any background depth, so the product itself is the only thing with form on the page.
-- **Sport-category tiles** on the home page are full-bleed cinematic photography with a small `{component.button-outline-on-image}` pill anchored at the bottom-left, giving a moment of crisp white pill against atmospheric image.
+- **Sport-category tiles** on the home page are full-bleed cARCKHÉtic photography with a small `{component.button-outline-on-image}` pill anchored at the bottom-left, giving a moment of crisp white pill against atmospheric image.
 
 ## Shapes
 
@@ -402,7 +402,7 @@ Depth in Nike's system comes entirely from photography, not from CSS effects:
 
 ### Photography Geometry
 - **Product cards:** consistent 1:1 square or near-square (~4:5 portrait on tall product crops), full-bleed within the card with no padding, sitting on `{colors.soft-cloud}` backdrop.
-- **Editorial campaign hero:** ~16:9 or wider cinematic crop, full-bleed across the content max-width, with the Futura display headline burned into the lower-left or upper-left third.
+- **Editorial campaign hero:** ~16:9 or wider cARCKHÉtic crop, full-bleed across the content max-width, with the Futura display headline burned into the lower-left or upper-left third.
 - **Sport-category rail:** 4:5 portrait full-bleed thumbnails with a small CTA pill anchored bottom-left.
 - **PDP main image:** square primary image with vertical thumbnail rail to its left (~5–7 thumbnails stacked at small size), enabling rapid color/angle browsing without leaving the page.
 - **Avatar / category icon cards:** centered illustrated icon at ~80–96px on `{colors.canvas}` with `{typography.caption-md}` label below.

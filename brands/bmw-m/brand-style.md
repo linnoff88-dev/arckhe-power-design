@@ -384,7 +384,7 @@ The system uses no drop shadows and no layered chrome. Depth comes entirely from
 The radius hierarchy is "almost always 0, sometimes circular." This binary radius decision is a deliberate brand-language choice — sharp rectangles read as engineered precision; circles read as functional controls. Nothing in between.
 
 ### Photography Geometry
-Hero photography fills full-width with no rounding. Photo cards inside grids retain `{rounded.none}` corners, edge-to-edge images. Carbon-wheel detail shots and motorsport-pit photos use 16:9 or 21:9 cinema-aspect ratios. Driver portraits in racing-team grids use 4:5 portrait crops, also with sharp corners.
+Hero photography fills full-width with no rounding. Photo cards inside grids retain `{rounded.none}` corners, edge-to-edge images. Carbon-wheel detail shots and motorsport-pit photos use 16:9 or 21:9 cARCKHÉ-aspect ratios. Driver portraits in racing-team grids use 4:5 portrait crops, also with sharp corners.
 
 ## Components
 

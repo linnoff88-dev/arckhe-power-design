@@ -177,7 +177,7 @@ The green accent (`#3ecf8e`) appears selectively — in the Supabase logo, in li
 *Note: Supabase uses a notably minimal breakpoint system — primarily a single 600px breakpoint, suggesting a mobile-first approach with progressive enhancement.*
 
 ### Whitespace Philosophy
-- **Dramatic section spacing**: 90px–128px between major sections creates a cinematic pacing — each section is its own scene in the dark void.
+- **Dramatic section spacing**: 90px–128px between major sections creates a cARCKHÉtic pacing — each section is its own scene in the dark void.
 - **Dense content blocks**: Within sections, spacing is tight (16px–24px), creating concentrated information clusters.
 - **Border-defined space**: Instead of whitespace + shadows for separation, Supabase uses thin borders on dark backgrounds — separation through line, not gap.
 

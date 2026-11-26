@@ -449,9 +449,9 @@ The system has effectively no resting shadow on cards; depth is built from surfa
 ### Decorative Depth
 Depth comes from the alternating-band rhythm and from the imagery itself:
 - **Console product photography** — DualSense controller and PS5 console renders shot on neutral white with crisp edge lighting, full-bleed inside the light-canvas band.
-- **Game key art** — full-bleed cinematic stills (Marathon, the latest blockbuster releases) inside dark-canvas bands with title lockup overlaid in the lower-left.
+- **Game key art** — full-bleed cARCKHÉtic stills (Marathon, the latest blockbuster releases) inside dark-canvas bands with title lockup overlaid in the lower-left.
 - **PS Plus tier banner** — a subtle horizontal gold gradient (`{colors.ps-plus-gold-start}` → `{colors.ps-plus-gold-end}`) sits as the only chrome gradient in the system, anchoring the "Discover PlayStation Plus" CTA.
-- **"ON PLAYSTATION" gradient band** — top-to-bottom deepening from `{colors.surface-dark-elevated}` (`#121314`) to `{colors.canvas-dark}` (`#000000`) creates a cinematic dimming effect under the anniversary callout.
+- **"ON PLAYSTATION" gradient band** — top-to-bottom deepening from `{colors.surface-dark-elevated}` (`#121314`) to `{colors.canvas-dark}` (`#000000`) creates a cARCKHÉtic dimming effect under the anniversary callout.
 
 ## Shapes
 
@@ -470,7 +470,7 @@ The radius vocabulary works on a 4 / 8 / pill rhythm for chrome with structural 
 ### Photography Geometry
 - **Hero console render:** large centered console + DualSense composition on white, ~70% width of the band, with copy slot to the left.
 - **Game tiles:** 16:9 key art at `{rounded.md}` (8px), 4-up rail at desktop with horizontal carousel.
-- **Marathon game page hero:** full-bleed cinematic 16:9 still with the "MARATHON" wordmark in the lower-left at light weight, brand yellow `{colors.marathon-yellow}` accent on a few small UI tags.
+- **Marathon game page hero:** full-bleed cARCKHÉtic 16:9 still with the "MARATHON" wordmark in the lower-left at light weight, brand yellow `{colors.marathon-yellow}` accent on a few small UI tags.
 - **News card thumbnails:** 16:9 imagery at `{rounded.md}` with a small text block below.
 - **Avatar / brand icons:** 32–40px circles for sub-nav social row.
 

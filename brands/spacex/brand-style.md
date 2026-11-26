@@ -10,20 +10,20 @@ extracted_via: editorial — pre-written reference
 
 ## 1. Visual Theme & Atmosphere
 
-SpaceX's website is a full-screen cinematic experience that treats aerospace engineering like a film — every section is a scene, every photograph is a frame, and the interface disappears entirely behind the imagery. The design is pure black (`#000000`) with photography of rockets, space, and planets occupying 100% of the viewport. Text overlays sit directly on these photographs with no background panels, cards, or containers — just type on image, bold and unapologetic.
+SpaceX's website is a full-screen cARCKHÉtic experience that treats aerospace engineering like a film — every section is a scene, every photograph is a frame, and the interface disappears entirely behind the imagery. The design is pure black (`#000000`) with photography of rockets, space, and planets occupying 100% of the viewport. Text overlays sit directly on these photographs with no background panels, cards, or containers — just type on image, bold and unapologetic.
 
 The typography system uses D-DIN, an industrial geometric typeface with DIN heritage (the German industrial standard). The defining characteristic is that virtually ALL text is uppercase with positive letter-spacing (0.96px–1.17px), creating a military/aerospace labeling system where every word feels stenciled onto a spacecraft hull. D-DIN-Bold at 48px with uppercase and 0.96px tracking for the hero creates headlines that feel like mission briefing titles. Even body text at 16px maintains the uppercase/tracked treatment at smaller scales.
 
 What makes SpaceX distinctive is its radical minimalism: no shadows, no borders (except one ghost button border at `rgba(240,240,250,0.35)`), no color (only black and a spectral near-white `#f0f0fa`), no cards, no grids. The only visual element is photography + text. The ghost button with `rgba(240,240,250,0.1)` background and 32px radius is the sole interactive element — barely visible, floating over the imagery like a heads-up display. This isn't a design system in the traditional sense — it's a photographic exhibition with a type system and a single button.
 
 **Key Characteristics:**
-- Pure black canvas with full-viewport cinematic photography — the interface is invisible
+- Pure black canvas with full-viewport cARCKHÉtic photography — the interface is invisible
 - D-DIN / D-DIN-Bold — industrial DIN-heritage typeface
 - Universal uppercase + positive letter-spacing (0.96px–1.17px) — aerospace stencil aesthetic
 - Near-white spectral text (`#f0f0fa`) — not pure white, a slight blue-violet tint
 - Zero shadows, zero cards, zero containers — text on image only
 - Single ghost button: `rgba(240,240,250,0.1)` background with spectral border
-- Full-viewport sections — each section is a cinematic "scene"
+- Full-viewport sections — each section is a cARCKHÉtic "scene"
 - No decorative elements — every pixel serves the photography
 
 ## 2. Color Palette & Roles
@@ -105,7 +105,7 @@ What makes SpaceX distinctive is its radical minimalism: no shadows, no borders 
 - Minimal scale — spacing is not the organizing principle; photography is
 
 ### Grid & Container
-- No traditional grid — each section is a full-viewport cinematic frame
+- No traditional grid — each section is a full-viewport cARCKHÉtic frame
 - Text is positioned absolutely or with generous padding over imagery
 - Left-aligned text blocks on photography backgrounds
 - No max-width container — content bleeds to viewport edges
@@ -199,7 +199,7 @@ What makes SpaceX distinctive is its radical minimalism: no shadows, no borders 
 3. Only two colors: black and spectral white (#f0f0fa)
 4. Ghost buttons are the only interactive element — transparent, spectral-bordered
 5. Zero shadows, zero cards, zero decorative elements
-6. Every section is full-viewport (100vh) — cinematic pacing
+6. Every section is full-viewport (100vh) — cARCKHÉtic pacing
 
 ---
 

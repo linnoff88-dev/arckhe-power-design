@@ -14,7 +14,7 @@ Warp's website feels like sitting at a campfire in a deep forest — warm, dark,
 
 The typography is the secret weapon: Matter, a geometric sans-serif with distinctive character, deployed at Regular weight across virtually all text. The font choice is unusual for a developer tool — Matter has a softness and humanity that signals "this terminal is for everyone, not just greybeards." Combined with tight line-heights and controlled negative letter-spacing on headlines, the effect is refined and approachable simultaneously. Nature photography is woven between terminal screenshots, creating a visual language that says: this tool brings you closer to flow, to calm productivity.
 
-The overall design philosophy is restraint through warmth. Minimal color (almost monochromatic warm grays), minimal ornamentation, and a focus on product showcases set against cinematic dark landscapes. It's a terminal company that markets like a lifestyle brand.
+The overall design philosophy is restraint through warmth. Minimal color (almost monochromatic warm grays), minimal ornamentation, and a focus on product showcases set against cARCKHÉtic dark landscapes. It's a terminal company that markets like a lifestyle brand.
 
 **Key Characteristics:**
 - Warm dark background — not cold black, but earthy near-black with warm gray undertones
@@ -147,7 +147,7 @@ The overall design philosophy is restraint through warmth. Minimal color (almost
 ### Grid & Container
 - **Max width**: ~1500px container (breakpoint at 1500px), centered
 - **Column patterns**: Full-width hero, 2-column feature sections with photography, single-column testimonials
-- **Cinematic layout**: Wide containers that let photography breathe
+- **CARCKHÉtic layout**: Wide containers that let photography breathe
 
 ### Whitespace Philosophy
 - **Vast and warm**: Generous spacing between sections — the dark background creates a warm void that feels contemplative rather than empty
@@ -215,7 +215,7 @@ Warp's elevation system is remarkably flat — almost zero shadow usage on the m
 |------|-------|-------------|
 | Mobile | <810px | Single column, stacked sections, hero text reduces to ~48px, hamburger nav |
 | Tablet | 810px–1500px | 2-column features begin, photography scales, nav links partially visible |
-| Desktop | >1500px | Full cinematic layout, 80px hero display, side-by-side photography + text |
+| Desktop | >1500px | Full cARCKHÉtic layout, 80px hero display, side-by-side photography + text |
 
 ### Touch Targets
 - Pill buttons: 50px radius with 10px padding — comfortable touch targets
@@ -226,11 +226,11 @@ Warp's elevation system is remarkably flat — almost zero shadow usage on the m
 - **Navigation**: Full horizontal nav → simplified mobile navigation
 - **Hero text**: 80px display → 56px → 48px across breakpoints
 - **Feature sections**: Side-by-side photography + text → stacked vertically
-- **Photography**: Scales within containers, maintains cinematic aspect ratios
+- **Photography**: Scales within containers, maintains cARCKHÉtic aspect ratios
 - **Section spacing**: Reduces proportionally — generous desktop → compact mobile
 
 ### Image Behavior
-- Nature photography scales responsively, maintaining wide cinematic ratios
+- Nature photography scales responsively, maintaining wide cARCKHÉtic ratios
 - Terminal screenshots maintain aspect ratios within responsive containers
 - Video elements scale with 10px radius maintained
 - No art direction changes — same compositions across breakpoints

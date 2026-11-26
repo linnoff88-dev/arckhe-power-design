@@ -12,7 +12,7 @@ extracted_via: editorial — pre-written reference
 
 Lamborghini's website is a cathedral of darkness — a digital stage where jet-black surfaces stretch infinitely and every element emerges from the void like a machine under a spotlight. The page is almost entirely black. Not dark gray, not near-black — true, uncompromising black (`#000000`) that saturates the viewport and refuses to yield. Into this abyss, white type and Lamborghini Gold (`#FFC000`) are deployed with surgical precision, creating a visual language that feels like walking through a nighttime motorsport event where every surface absorbs light except the things that matter.
 
-The hero is a full-viewport video — dark, cinematic, immersive — showing event footage or vehicle reveals with the Lamborghini bull logo floating ethereally above. The navigation is minimal: a centered bull logo, a "MENU" hamburger on the left, and search/bookmark icons on the right, all rendered in white against the black canvas. There are no borders, no visible nav containers, no background color on the header — just white marks floating in darkness. The overall mood is nocturnal luxury: exclusive, theatrical, and deliberately intimidating. Each section transition is a scroll through darkness into the next revelation.
+The hero is a full-viewport video — dark, cARCKHÉtic, immersive — showing event footage or vehicle reveals with the Lamborghini bull logo floating ethereally above. The navigation is minimal: a centered bull logo, a "MENU" hamburger on the left, and search/bookmark icons on the right, all rendered in white against the black canvas. There are no borders, no visible nav containers, no background color on the header — just white marks floating in darkness. The overall mood is nocturnal luxury: exclusive, theatrical, and deliberately intimidating. Each section transition is a scroll through darkness into the next revelation.
 
 Typography is the voice of this darkness. LamboType — a custom Neo-Grotesk typeface created by Character Type and design agency Strichpunkt — is used for everything from 120px uppercase display headlines to 10px micro labels. Its distinctive 12° angled terminals are inspired by the aerodynamic lines of Lamborghini's super sports cars, and its proportions range from Normal to Ultracompressed width. Headlines SHOUT in uppercase at enormous scales with tight line-heights (0.92 at 120px), creating dense blocks of text that feel stamped from steel. The typeface carries hexagonal geometric DNA — constructed from hexagons, three-armed stars, and circles — that echoes throughout the interface in the hexagonal pause button and UI icons. Built on Bootstrap grid with 68 Element Plus/UI components, the technical infrastructure is substantial beneath the theatrical surface.
 
@@ -21,7 +21,7 @@ Typography is the voice of this darkness. LamboType — a custom Neo-Grotesk typ
 - LamboType custom Neo-Grotesk font with 12° angled terminals inspired by aerodynamic car lines
 - Lamborghini Gold (`#FFC000`) as the sole accent color — used exclusively for primary CTA buttons
 - All-uppercase display typography at extreme scales (120px, 80px, 54px) with tight line-heights
-- Full-viewport video heroes with cinematic event/vehicle content
+- Full-viewport video heroes with cARCKHÉtic event/vehicle content
 - Zero border-radius on buttons — sharp, angular, uncompromising rectangles
 - Hexagonal motifs in UI elements (pause button, icon system) echoing brand geometry
 - Bootstrap grid system + Element Plus/UI 68 components underneath
@@ -152,10 +152,10 @@ All buttons use **zero border-radius** — sharp, angular rectangles that echo t
 - **Hexagonal motifs**: Pause button on hero sections uses hexagonal outline shape
 
 ### Image Treatment
-- **Hero**: Full-viewport video sections (100vh) with cinematic event/vehicle footage
+- **Hero**: Full-viewport video sections (100vh) with cARCKHÉtic event/vehicle footage
 - **Event photography**: Full-bleed aerial shots of Lamborghini Arena events
 - **Vehicle imagery**: High-contrast studio shots on dark backgrounds, full-width
-- **Aspect ratios**: Predominantly 16:9 and wider for cinematic feel
+- **Aspect ratios**: Predominantly 16:9 and wider for cARCKHÉtic feel
 - **Dark gradient overlays**: Subtle darkening at top/bottom edges of video to ensure text legibility
 
 ### Distinctive Components
@@ -204,7 +204,7 @@ Lamborghini uses darkness as whitespace. The generous black expanses between con
 Lamborghini achieves depth through surface color layering rather than shadows. On a black canvas, traditional drop shadows are invisible — instead, the system creates elevation by shifting from absolute black to progressively lighter dark grays: `#000000` → `#181818` → `#202020` → `#494949`. This "darkness gradient" approach means that elevated elements are literally lighter than their surroundings, inverting the traditional shadow model.
 
 ### Decorative Depth
-- Full-bleed video provides atmospheric depth through cinematic lighting
+- Full-bleed video provides atmospheric depth through cARCKHÉtic lighting
 - The hexagonal pause button floats with a thin white outline stroke
 - Progress bars at hero section bottoms create a subtle horizon line
 - No gradients, glows, or blur effects on UI elements — the photography provides all visual richness
@@ -263,7 +263,7 @@ Lamborghini achieves depth through surface color layering rather than shadows. O
 - **Section spacing**: Reduces from 56px → 40px → 24px vertical padding
 
 ### Image Behavior
-- Hero videos use `object-fit: cover` to maintain cinematic framing at all sizes
+- Hero videos use `object-fit: cover` to maintain cARCKHÉtic framing at all sizes
 - Vehicle images scale within their containers with maintained aspect ratios
 - Event photography crops to viewport width on narrow screens
 - Background images darken at edges to maintain text contrast on all viewports

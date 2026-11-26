@@ -419,7 +419,7 @@ The system never uses a drop shadow. Depth comes entirely from (a) color-block c
 The radius hierarchy is binary: **rectangular for everything, circular only for icon buttons.** A clear departure from the soft-cornered SaaS dialect of Apple or Cal.com — closer to BMW corporate-automotive's "engineered precision" voice.
 
 ### Photography Geometry
-- Hero photography is full-bleed at 16:9 or 21:9 cinematic ratio.
+- Hero photography is full-bleed at 16:9 or 21:9 cARCKHÉtic ratio.
 - Model card photos sit at 16:10, edge-to-edge with `{rounded.none}` corners.
 - Configurator vehicle renders sit on a white studio background, full silhouette visible.
 

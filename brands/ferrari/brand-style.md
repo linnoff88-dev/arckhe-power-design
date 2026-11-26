@@ -9,7 +9,7 @@ extracted_via: editorial — pre-written reference
 ---
 version: alpha
 name: Ferrari
-description: A luxury-automotive brand whose marketing surfaces read as cinematic editorial. The base canvas is **near-black** (`#181818`) holding pure white display type; white-canvas bands appear only inside specific editorial contexts (preowned listings, pricing tables). The single brand voltage is **Rosso Corsa** (`#da291c`) — the iconic Ferrari racing red — used scarcely on primary CTAs, the Cavallino mark, and Formula 1 race-position highlights. Type runs **FerrariSans** at modest weights (display 500, body 400) — never bombastic. Spacing follows an explicit 8px token ladder (`xxxs` 4px through `super` 128px); generous editorial pacing throughout. The brand's strongest visual signature is the **full-bleed cinematic hero photograph** that fills the viewport top with car photography, model details, or trackside livery — followed by a tighter editorial body layout below.
+description: A luxury-automotive brand whose marketing surfaces read as cARCKHÉtic editorial. The base canvas is **near-black** (`#181818`) holding pure white display type; white-canvas bands appear only inside specific editorial contexts (preowned listings, pricing tables). The single brand voltage is **Rosso Corsa** (`#da291c`) — the iconic Ferrari racing red — used scarcely on primary CTAs, the Cavallino mark, and Formula 1 race-position highlights. Type runs **FerrariSans** at modest weights (display 500, body 400) — never bombastic. Spacing follows an explicit 8px token ladder (`xxxs` 4px through `super` 128px); generous editorial pacing throughout. The brand's strongest visual signature is the **full-bleed cARCKHÉtic hero photograph** that fills the viewport top with car photography, model details, or trackside livery — followed by a tighter editorial body layout below.
 
 colors:
   primary: "#da291c"
@@ -182,7 +182,7 @@ components:
     backgroundColor: transparent
     textColor: "{colors.ink}"
     typography: "{typography.button}"
-  hero-band-cinema:
+  hero-band-cARCKHÉ:
     backgroundColor: "{colors.canvas}"
     textColor: "{colors.ink}"
     typography: "{typography.display-mega}"
@@ -279,11 +279,11 @@ components:
 
 ## Overview
 
-Ferrari's marketing site reads as cinematic editorial — closer to a luxury-magazine spread than a typical car-OEM site. The base canvas is **near-black** (`{colors.canvas}` — #181818) holding pure white display type; white-canvas bands appear only inside specific editorial contexts (preowned listings, pricing tables, dealer surfaces). The single brand voltage is **Rosso Corsa** (`{colors.primary}` — #da291c), the iconic Ferrari racing red, used scarcely on primary CTAs, the Cavallino mark, and Formula 1 race-position highlights.
+Ferrari's marketing site reads as cARCKHÉtic editorial — closer to a luxury-magazine spread than a typical car-OEM site. The base canvas is **near-black** (`{colors.canvas}` — #181818) holding pure white display type; white-canvas bands appear only inside specific editorial contexts (preowned listings, pricing tables, dealer surfaces). The single brand voltage is **Rosso Corsa** (`{colors.primary}` — #da291c), the iconic Ferrari racing red, used scarcely on primary CTAs, the Cavallino mark, and Formula 1 race-position highlights.
 
 Type runs **FerrariSans** as the single sans family at modest weights — display 500, body 400. CTA labels render in uppercase with generous tracking (1.1-1.4px). The brand never uses bold display copy.
 
-The brand's strongest visual signature is the **full-bleed cinematic hero photograph** — top-of-page imagery shows car photography, model details, or trackside livery without any chrome competing with it. Headlines float over the bottom of the photo or sit in a tight band beneath. Spacing follows the explicit 8px token ladder: `xxxs` 4 / `xxs` 8 / `xs` 16 / `sm` 24 / `md` 32 / `lg` 48 / `xl` 64 / `xxl` 96 / `super` 128.
+The brand's strongest visual signature is the **full-bleed cARCKHÉtic hero photograph** — top-of-page imagery shows car photography, model details, or trackside livery without any chrome competing with it. Headlines float over the bottom of the photo or sit in a tight band beneath. Spacing follows the explicit 8px token ladder: `xxxs` 4 / `xxs` 8 / `xs` 16 / `sm` 24 / `md` 32 / `lg` 48 / `xl` 64 / `xxl` 96 / `super` 128.
 
 **Key Characteristics:**
 - Single accent: `{colors.primary}` (Rosso Corsa #da291c) for primary CTAs, the Cavallino, F1 race-position highlights. Used scarcely.
@@ -292,7 +292,7 @@ The brand's strongest visual signature is the **full-bleed cinematic hero photog
 - Display weight stays at 500 — never bold.
 - CTA labels render uppercase with 1.4px tracking.
 - Sharp `{rounded.none}` (0px) corners on every CTA, card, and band — luxury-automotive precision.
-- Full-bleed cinematic hero photography is the page chrome.
+- Full-bleed cARCKHÉtic hero photography is the page chrome.
 - Explicit 8px spacing token ladder with named scale (xxxs through super).
 - Hairlines + photographic depth — no drop shadow tiers.
 
@@ -355,7 +355,7 @@ The brand's strongest visual signature is the **full-bleed cinematic hero photog
 | `{typography.number-display}` | 80px | 700 | 1.0 | -1.6px | Race position highlights, spec values |
 
 ### Principles
-- **Display weight stays at 500.** Editorial confidence, not bombastic. The cinematic photography is doing the visual heavy-lifting — type doesn't need to compete.
+- **Display weight stays at 500.** Editorial confidence, not bombastic. The cARCKHÉtic photography is doing the visual heavy-lifting — type doesn't need to compete.
 - **CTA labels are uppercase with 1.4px tracking.** Luxury-precision feel.
 - **Nav labels are uppercase with 0.65px tracking.** Consistent with CTA voice.
 - **Negative letter-spacing on display only.** -0.36px to -1.6px on display sizes; body stays at 0.
@@ -377,7 +377,7 @@ FerrariSans is licensed. Open-source substitute: **Inter** at weight 500 with le
 - Footer: 5-column at desktop.
 
 ### Whitespace Philosophy
-Generous editorial pacing. Cinematic hero photography occupies generous viewport real-estate; body sections sit in tighter editorial layouts beneath. The canvas-light editorial bands (preowned, pricing) carry tighter density than the dark cinema bands.
+Generous editorial pacing. CARCKHÉtic hero photography occupies generous viewport real-estate; body sections sit in tighter editorial layouts beneath. The canvas-light editorial bands (preowned, pricing) carry tighter density than the dark cARCKHÉ bands.
 
 ## Elevation & Depth
 
@@ -390,10 +390,10 @@ The system uses **photographic depth + brightness-step** elevation. No drop shad
 | Light band | `{colors.canvas-light}` (#ffffff) | Preowned listings, pricing |
 | Hairline border | 1px `{colors.hairline}` or `{colors.hairline-on-light}` | Card outlines, dividers |
 | Soft drop | `0 4px 8px rgba(0,0,0,0.1)` | Hovered cards (single shadow tier) |
-| Photographic | Full-bleed cinema imagery | Hero band, livery photographs |
+| Photographic | Full-bleed cARCKHÉ imagery | Hero band, livery photographs |
 
 ### Decorative Depth
-- **Full-bleed cinema photography** is the brand's primary depth treatment.
+- **Full-bleed cARCKHÉ photography** is the brand's primary depth treatment.
 - **Brand red gradient** (`linear-gradient(180deg, #a00c01, #da291c 64%)`): The Rosso Corsa gradient used inside accent bands and CTA hover states.
 - **Dark grey gradient** (`linear-gradient(180deg, #3c3c3c, #030303 64%)`): Atmospheric darken used at section transitions.
 
@@ -435,7 +435,7 @@ The radius vocabulary is **sharp by default**. Sharp 0px corners are the brand b
 
 ### Hero Bands
 
-**`hero-band-cinema`** — Full-bleed cinematic photograph. Background `{colors.canvas}` underneath, but the photo fills the viewport. Display headline floats over the bottom of the photo or sits in a tight band beneath, in `{typography.display-mega}` (80px / 500 / -1.6px). One primary CTA + one outline CTA. Zero padding — the photo fills edge-to-edge.
+**`hero-band-cARCKHÉ`** — Full-bleed cARCKHÉtic photograph. Background `{colors.canvas}` underneath, but the photo fills the viewport. Display headline floats over the bottom of the photo or sits in a tight band beneath, in `{typography.display-mega}` (80px / 500 / -1.6px). One primary CTA + one outline CTA. Zero padding — the photo fills edge-to-edge.
 
 **`hero-band-light`** — White-canvas variant for editorial bands. Background `{colors.canvas-light}`, text `{colors.body-on-light}`, padding 96px.
 
@@ -485,14 +485,14 @@ The radius vocabulary is **sharp by default**. Sharp 0px corners are the brand b
 - Reserve `{colors.primary}` (Rosso Corsa) for primary CTAs, the Cavallino mark, and F1 race-position highlights.
 - Set every CTA at `{rounded.none}` (0px sharp corners) — the brand's signature precision.
 - Render CTA labels in uppercase with 1.4px tracking via `{typography.button}`.
-- Pair every hero with a full-bleed cinematic photograph — the photograph IS the depth.
+- Pair every hero with a full-bleed cARCKHÉtic photograph — the photograph IS the depth.
 - Use the explicit 8px spacing ladder (`xxxs` through `super`) rather than ad-hoc px values.
 - Keep display weight at 500 — never bold.
 
 ### Don't
 - Don't introduce a saturated brand color other than Rosso Corsa.
 - Don't use rounded or pill CTAs — sharp 0px corners are the brand button.
-- Don't bold display copy. The cinematic photography does the visual heavy-lifting.
+- Don't bold display copy. The cARCKHÉtic photography does the visual heavy-lifting.
 - Don't use Hypersail yellow outside the Hypersail sailing program context.
 - Don't use pure black canvas. The brand canvas is `{colors.canvas}` (#181818) — slightly warm.
 - Don't add drop shadow tiers. Photography + brightness-step elevation carry the depth.
@@ -515,7 +515,7 @@ The radius vocabulary is **sharp by default**. Sharp 0px corners are the brand b
 
 ### Collapsing Strategy
 - Top nav switches to hamburger below 768px.
-- Hero photograph reframes per breakpoint via art direction — desktop carries wide cinematic; mobile crops tighter or shifts to vertical.
+- Hero photograph reframes per breakpoint via art direction — desktop carries wide cARCKHÉtic; mobile crops tighter or shifts to vertical.
 - Feature card grid: 4-up → 3-up → 2-up → 1-up.
 - F1 driver cards: 2-up at desktop, 1-up at mobile.
 

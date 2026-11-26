@@ -460,12 +460,12 @@ components:
 
 ## Overview
 
-Mintlify positions itself at the intersection of polished marketing presentation and developer-grade documentation density. The home and startups pages open with cinematic atmospheric heroes — soft sky-gradient backdrops with cloud illustrations on the homepage, dark teal-to-mint gradients with a rocket launch on the startups page — that feel more like a SaaS landing aesthetic than a developer tool. Then the deeper surfaces (pricing comparison, live documentation pages) collapse into dense, high-information layouts where Inter body type carries 14–16px copy across long-form prose, syntax-highlighted code blocks, and 3-column documentation grids.
+Mintlify positions itself at the intersection of polished marketing presentation and developer-grade documentation density. The home and startups pages open with cARCKHÉtic atmospheric heroes — soft sky-gradient backdrops with cloud illustrations on the homepage, dark teal-to-mint gradients with a rocket launch on the startups page — that feel more like a SaaS landing aesthetic than a developer tool. Then the deeper surfaces (pricing comparison, live documentation pages) collapse into dense, high-information layouts where Inter body type carries 14–16px copy across long-form prose, syntax-highlighted code blocks, and 3-column documentation grids.
 
 The brand's signature mint green ({colors.brand-green}) appears sparingly but decisively — on the hero "Get started" pill button, the green checkmark icons inside feature lists, the "Featured" pricing tier border, and active state indicators inside docs UI. Black-pill primary buttons dominate the marketing flow; white-on-dark inversions appear on dark hero bands. The signature pairing of Inter (body, headings) with Geist Mono (code blocks, inline references, type signatures) reinforces the developer-tool DNA without requiring a third typeface.
 
 **Key Characteristics:**
-- Atmospheric gradient hero bands (sky-blue to cream on homepage; teal-to-mint on startups) provide cinematic marketing presentation
+- Atmospheric gradient hero bands (sky-blue to cream on homepage; teal-to-mint on startups) provide cARCKHÉtic marketing presentation
 - Signature Mintlify mint green ({colors.brand-green}) reserved for accent CTAs, active states, and feature confirmations
 - Black-pill primary buttons ({colors.primary} + `{rounded.full}`) for marketing CTAs
 - Inter for all UI prose; Geist Mono for code blocks, inline code, and type/property signatures

@@ -10,14 +10,14 @@ extracted_via: editorial — pre-written reference
 
 ## 1. Visual Theme & Atmosphere
 
-Tesla's website is an exercise in radical subtraction — a digital showroom where the product is everything and the interface is almost nothing. The page opens with a full-viewport hero that fills the entire screen with cinematic car photography: three vehicles arranged on polished concrete against a hazy cityscape sky, with a single model name floating above in translucent white type. There are no decorative borders, no gradients, no patterns, no shadows. The UI exists only to provide just enough navigational structure to get out of the way. Every pixel that isn't product imagery is white space, and that restraint is the design system's most powerful statement.
+Tesla's website is an exercise in radical subtraction — a digital showroom where the product is everything and the interface is almost nothing. The page opens with a full-viewport hero that fills the entire screen with cARCKHÉtic car photography: three vehicles arranged on polished concrete against a hazy cityscape sky, with a single model name floating above in translucent white type. There are no decorative borders, no gradients, no patterns, no shadows. The UI exists only to provide just enough navigational structure to get out of the way. Every pixel that isn't product imagery is white space, and that restraint is the design system's most powerful statement.
 
 The color philosophy is almost ascetic: a single blue (`#3E6AE1`) for primary calls to action, three shades of dark gray for text hierarchy, and white for everything else. The entire emotional weight is carried by photography — sprawling landscape shots, studio-lit vehicle profiles, and atmospheric environmental compositions that stretch edge-to-edge across each viewport-height section. The UI chrome dissolves into the imagery. The navigation bar floats above the hero with no visible background, border, or shadow — the TESLA wordmark and five navigation labels simply exist in the space, trusting the content beneath them to provide sufficient contrast.
 
 Typography recently transitioned from Gotham to Universal Sans — a custom family split into "Display" for headlines and "Text" for body/UI elements — unifying the website, mobile app, and in-car software into a single typographic voice. The Display variant renders hero titles at 40px weight 500, while the Text variant handles everything from navigation (14px/500) to body copy (14px/400). The font carries a geometric precision with slightly humanist terminals that feels engineered rather than designed — exactly matching Tesla's brand identity of technology that doesn't need to announce itself. There are no text shadows, no text gradients, no decorative type treatments. Every letterform earns its place through clarity alone.
 
 **Key Characteristics:**
-- Full-viewport hero sections (100vh) dominated by cinematic car photography with minimal overlay UI
+- Full-viewport hero sections (100vh) dominated by cARCKHÉtic car photography with minimal overlay UI
 - Near-zero UI decoration: no shadows, no gradients, no borders, no patterns anywhere on the page
 - Single accent color — Electric Blue (`#3E6AE1`) — used exclusively for primary CTA buttons
 - Universal Sans font family (Display + Text) unifying web, app, and in-car interfaces
@@ -153,7 +153,7 @@ All buttons use barely-rounded rectangles (4px border-radius) — creating a sha
 - **No visible separator** between nav and content — the nav blends with the hero
 
 ### Image Treatment
-- **Hero**: Full-viewport (100vh) sections with cinematic photography — edge-to-edge, no padding, no margin
+- **Hero**: Full-viewport (100vh) sections with cARCKHÉtic photography — edge-to-edge, no padding, no margin
 - **Vehicle images**: Transparent PNG renders on white background in dropdown panel, studio-quality 3/4 angle shots
 - **Category cards**: Landscape photography with approximately 2:1 ratio, rounded corners (12px)
 - **Carousel**: Auto-advancing with dot indicators (3 dots) and left/right arrow navigation on edges
@@ -262,7 +262,7 @@ Tesla's approach to elevation is essentially "none." The site avoids box-shadows
 
 ### Image Behavior
 - Hero images are fully responsive and fill the entire viewport at every breakpoint
-- Vehicle carousel images use `object-fit: cover` to maintain cinematic composition across widths
+- Vehicle carousel images use `object-fit: cover` to maintain cARCKHÉtic composition across widths
 - Transparent PNG vehicle images in the nav panel scale proportionally within their grid cells
 - Category card images maintain their landscape ratio and clip via `overflow: hidden` with border-radius
 
